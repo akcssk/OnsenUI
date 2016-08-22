@@ -9,6 +9,49 @@
 
 ![Onsen UI Todo App](https://cloud.githubusercontent.com/assets/6549462/17845137/8224b696-687a-11e6-8f7b-95b7e8f20f2d.gif)
 
+Onsen UI is a library of UI components to help you create beautiful hybrid apps for both Android and iOS using HTML, CSS and Javascript.
+
+The core library is written in pure Javascript and is framework agnostic which means you can use it with your favorite frameworks such as:
+
+* [React](https://onsen.io/react)
+* [Angular2](https://onsen.io/angular2)
+* [AngularJS 1.x](https://onsen.io/v2/docs/guide/angular1/index.html)
+* [Vue.js (WIP)](https://github.com/argelius/vue-onsenui)
+
+## Getting started
+
+We have several resources to help you get started creating hybrid apps with Onsen UI:
+
+* [The official docs](https://onsen.io/v2/docs/js.html) provide [reference for the core library](https://onsen.io/v2/docs/js.html) as well as the [React](https://onsen.io/v2/docs/guide/react/index.html), [Angular2](https://onsen.io/v2/docs/guide/angular2/) and [AngularJS 1.x](https://onsen.io/v2/docs/guide/angular1/) components.
+* We have an [interactive Onsen UI tutorial](https://onsen.io/tutorial/) where you can learn how to use the library and play around with the components.
+* There are lots of great tutorials and guides published in our [official Onsen UI blog](https://onsen.io/blog/categories/tutorial.html) and we are adding new content regularly. 
+
+## Support
+
+If you are having trouble using some component the best place to get help is the [Onsen UI Forum](https://community.onsen.io/). We are also available to answer short questions on Twitter at [@Onsen_UI](https://twitter.com/Onsen_UI).
+
+## Examples with source code
+
+There are lots of sample applications written using Onsen UI. Here are some examples to give you an idea of what kind of apps you can create:
+
+### [Real time React Chat App with OnsenUI and Horizon!](http://tutorials.pluralsight.com/html-css/real-time-chat-app-with-onsenui-and-horizon)
+
+![Real time chat app](https://cloud.githubusercontent.com/assets/6549462/17846103/8acd4b8a-6881-11e6-86b8-1337183e3d09.png)
+
+[Download source code](https://github.com/philolo1/Horizon-Chat-MobX-OnsenUI)
+
+### [Weather application using React, Redux and Webpack](https://onsen.io/blog/cordova-hybrid-app-with-react-redux-webpack/)
+
+![Weather application](https://cloud.githubusercontent.com/assets/6549462/17846106/8b0ceb96-6881-11e6-8da0-14ff78047647.png)
+
+[Download source code](https://onsen.io/blog/cordova-hybrid-app-with-react-redux-webpack/)
+
+### [Todo application in pure Javascript](https://onsen.io/blog/auto-style-app-onsen/)
+
+![Todo application](https://cloud.githubusercontent.com/assets/6549462/17846105/8aedd1fc-6881-11e6-9c26-44289b0451f9.png)
+
+[Download source code](https://github.com/frankdiox/OnsenUI-Todo-App)
+
 The best place to start with Onsen UI is our [Getting Started](http://onsen.io/guide/getting_started.html) page.
 
 **We just released the RC of Onsen UI 2. The new version includes Material Design, React components, Angular 2 components and much more. Check out all the new features [here](https://onsen.io/2/)!**
