@@ -1,5 +1,7 @@
 # Onsen UI - HTML5 Hybrid Mobile App Framework
 
+![Onsen UI Todo App](/showcase-onsenui.gif)
+
 [![Join us on Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/OnsenUI/OnsenUI)
 [![Forum](https://img.shields.io/badge/forum-onsen--ui-FF412D.svg )](https://community.onsen.io/)
 [![TypeScript definitions on DefinitelyTyped](http://definitelytyped.org/badges/standard.svg)](https://github.com/OnsenUI/OnsenUI/blob/master/core/src/onsenui.d.ts)
