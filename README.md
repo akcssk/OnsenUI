@@ -18,6 +18,8 @@ The core library is written in pure Javascript and is framework agnostic which m
 * [AngularJS 1.x](https://onsen.io/v2/docs/guide/angular1/index.html)
 * [Vue.js (WIP)](https://github.com/argelius/vue-onsenui)
 
+Onsen UI provides styles for both iOS flat design and Android's Material Design. The components will be automatically styled based on the platform which makes it possible to support both iOS and Android with the same source code.
+
 ## Getting started
 
 We have several resources to help you get started creating hybrid apps with Onsen UI:
@@ -52,11 +54,7 @@ There are lots of sample applications written using Onsen UI. Here are some exam
 
 [Download source code](https://github.com/frankdiox/OnsenUI-Todo-App)
 
-The best place to start with Onsen UI is our [Getting Started](http://onsen.io/guide/getting_started.html) page.
-
-**We just released the RC of Onsen UI 2. The new version includes Material Design, React components, Angular 2 components and much more. Check out all the new features [here](https://onsen.io/2/)!**
-
-Onsen UI is:
+## What is Onsen UI?
 
 * **Open source**, free and open for all. It's designed and implemented to deliver unprecedented user interface and user experience for your mobile and hybrid apps. Onsen UI is built on top of Web Components so applications can be built using **HTML tags** web developers already know and love.
 
@@ -79,10 +77,6 @@ Onsen UI is tested with the following browsers and mobile OS.
  * Windows Phone 10+
  * Google Chrome
  * Safari
-
-## Demo
-
-[Click here](https://frankdiox.github.io/frame-auto-style/example.html) to see Onsen UI in action! Check our [tutorial](http://tutorial.onsen.io/) for more examples.
 
 ## What's Included
 
@@ -111,33 +105,23 @@ $ monaca debug # Preview on the real device
 
 ## Download Onsen UI
 
-The distribution repository is located [here](https://github.com/OnsenUI/OnsenUI-dist). React Components for Onsen UI are distributed separately in [this other repo](https://github.com/OnsenUI/react-onsenui).
-
 Onsen UI is available with npm, bower or jspm. Example:
 
 ```bash
-$ npm install onsenui
+npm install onsenui
 ```
 
 For React:
 
 ```bash
-$ npm install react-onsenui
+npm install react-onsenui
 ```
-
-For an example that uses React, Redux and Webpack you can check out our [Weather app sample](https://github.com/argelius/react-onsenui-redux-weather). Try the [demo here](http://argelius.github.io/react-onsenui-redux-weather/demo.html).
 
 For Angular2:
 
 ```bash
 $ npm install angular2-onsenui
 ```
-
-## Download the latest build
-
-A new build is generated every time the code changes. It can be downloaded on [this page](http://onsen.io/download.html#latest-build).
-
-Please use this with caution. However, we are very grateful if people try it out so we can find bugs and things to improve before the sharp releases.
 
 ## How to manually build this project
 
@@ -193,13 +177,3 @@ $ gulp test
 ## How to contribute
 
 Please see our [document on contributing](https://github.com/OnsenUI/OnsenUI/blob/master/CONTRIBUTING.md). See the full list of contributors [here](https://github.com/OnsenUI/OnsenUI/blob/master/CONTRIBUTORS.md).
-
-## Getting support
-
-If anything about Onsen UI is unclear, please ask a question on our [community forum](https://community.onsen.io/) or <a href="http://stackoverflow.com" target="_blank">Stackoverflow</a> and tag it "onsen-ui".
-
-You can also join our [Gitter channel](https://gitter.im/OnsenUI/OnsenUI) if you want to talk directly to the dev team.
-
-If you have any requests or comments regarding the development of Onsen UI, please feel free to direct them to the Twitter account (<a href="http://twitter.com/Onsen_UI" target="_blank">@Onsen_UI</a>).
-
-[Onsen UI](https://onsen.io/) - [Monaca](http://monaca.io/)
